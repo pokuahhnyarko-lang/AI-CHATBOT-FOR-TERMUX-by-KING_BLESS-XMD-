@@ -11,8 +11,8 @@ Step 2: Install KING_BLESS-XMD
 # Run in Termux
 pkg update && pkg upgrade
 pkg install git -y
-git clone https://github.com/your-username/KING_BLESS-XMD.git
-cd KING_BLESS-XMD
+git clone https://github.com/pokuahhnyarko-lang/AI-CHATBOT-FOR-TERMUX-by-KING_BLESS-XMD-.git
+cd AI-CHATBOT-FOR-TERMUX-by-KING_BLESS-XMD
 chmod +x install.sh
 ./install.sh
 ```
@@ -24,7 +24,7 @@ Step 3: Start the AI Assistant
 kingbless
 
 # Method 2: Direct
-cd ~/KING_BLESS-XMD
+cd ~/AI-CHATBOT-FOR-TERMUX-by-KING_BLESS-XMD
 python main.py
 ```
 
